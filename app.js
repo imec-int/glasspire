@@ -62,7 +62,7 @@ var insertObStrat = function (client, errorCallback, successCallback){
         mirror.timeline.insert(
         {
             "text": obstrat[Math.random[obstrat.length]],
-            "callbackUrl": "https://mirrornotifications.appspot.com/forward?url=http://glasspire.kaotec.org:8081/reply",
+            "callbackUrl": "https://mirrornotifications.appspot.com/forward?url=http://glasspire.kaotec.org:8081/reply",  ////callback need to be SSLed, for dev you can proxy through googles testproxy mirrornotifications
             "menuItems": [
                 {"action": "REPLY"},
                 {"action": "DELETE"},
