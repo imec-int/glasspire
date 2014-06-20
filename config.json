@@ -1,0 +1,5 @@
+{
+    "CLIENT_ID" : "369258878807-1hjif70ngab8qgfsf17f5rqir5l950lc.apps.googleusercontent.com",
+    "CLIENT_SECRET" : "4QzlCR5XJvhbXCXroZsrnrp0",
+    "REDIRECT_URL" : "http://glasspire.kaotec.org:8081/oauth2callback"
+}
